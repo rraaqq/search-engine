@@ -1,0 +1,20 @@
+button,
+input {
+    margin: 30px;
+}
+
+.container {
+    height: auto;
+    min-height: 100vh;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container div {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.container div ul li {
+    margin: 30px;
+}
